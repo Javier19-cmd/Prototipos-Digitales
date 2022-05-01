@@ -5,6 +5,7 @@ Referencias:
 
 body{
   background-color: #99EB01;
+  font-family: 'Alegreya Sans';
 }
 
 /*Barra de hasta arriba
@@ -147,7 +148,7 @@ body{
 .Inferior{
   position: absolute;
   top: 810px;
-  left: 310px;
+  left: 300px;
   margin: auto;
   width: 1530px;
   height: 100px;

@@ -1,0 +1,136 @@
+/*Estilos para la página de compras*/
+
+body{
+    background-color: #99EB01;
+    font-family: 'Alegreya Sans';   
+}
+
+/*Ícono para retroceder*/
+.Atras{
+    width: 4%;
+}
+
+/*Ícono para buscar*/
+.Buscar{
+    position: relative;
+    width: 4%;
+    top: -75px;
+    left: 1790px;
+}
+
+/*Título del juego*/
+.Titul{
+    position: relative;
+    color: #5a4586;
+    top: 40px;
+    left: 600px;
+}
+
+/*Galería*/
+.Grande{
+    position: relative;
+    top: 40px;
+    left: 600px;
+    width: 650px;
+    height: 400px;
+}
+
+/*Mini foto 1*/
+.Uno{
+    position: relative;
+    top: 140px;
+    left: -55px;
+    width: 200px;
+    height: 100px;
+}
+
+/*Mini foto 2*/
+.Dos{
+    position: relative;
+    top: 140px;
+    left: -60px;
+    width: 150px;
+    height: 100px;
+}
+
+/*Mini foto 3*/
+.Tres{
+    position: relative;
+    top: 140px;
+    left: -65px;
+    width: 150px;
+    height: 100px;
+}
+
+/*Mini foto 4*/
+.Cuatro{
+    position: relative;
+    top: 140px;
+    left: -75px;
+    width: 160px;
+    height: 100px;
+}
+
+/*Propiedades para la descripción del juego*/
+.Descripcion{
+    position: absolute;
+    top: 320px;
+    left: 1259px;
+    margin: auto;
+    width: 300px;
+    height: 340px;
+    background-color: #EBB554;
+}
+
+.Des{
+    color: #5a4586; 
+}
+
+/*Propiedades del cuadro de compras*/
+.Compra{
+    position: relative;
+    top: 125px;
+    left: 600px;
+    width: 650px;
+    height: 150px;
+    background-color: #EBB554;
+}
+
+/*Propiedades del texto*/
+.Comp{
+    color: #5a4586;
+}
+
+/*Propiedades del precio*/
+.Precio{
+    position: relative;
+    left: 450px;
+    color: #5a4586;
+}
+
+/*Propiedades de comprar*/
+.Comprar{
+    position: relative;
+    top: -48px;
+    left: 550px;
+    color: #5a4586;
+}
+
+/*Propiedades del precio*/
+.Cuadro3{
+    position: relative;
+    top: -50px;
+    left: 430px;
+}
+
+/*Propiedades del cuadro de idiomas*/
+.Idiomas{
+    position: relative;
+    top: -250px;
+    left: 225px;
+    width: 300px;
+    height: 250px;
+    background-color: #EBB554;
+    color: #5a4586;
+}
+
