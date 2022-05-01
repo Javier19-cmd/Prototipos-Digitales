@@ -1,0 +1,171 @@
+/*
+Referencias: 
+1. https://www.youtube.com/watch?v=sOyA84uhoCQ&ab_channel=keyquotes
+*/
+
+body{
+  background-color: #99EB01;
+}
+
+/*Barra de hasta arriba
+  Esta barra tiene: 
+  1. El ícono para regresar
+  2. El nombre de la página
+  3. El ícono para el perfil
+  4. El instalador de Steam
+*/
+.Arriba{
+    position: absolute;
+    margin: auto;
+    margin-top: 10px;
+    width: 1850px;
+    height: 70px;
+    background-color: #00FF80;
+}
+
+/*Ícono para regresar*/
+.Regresar{
+  position: relative; /*Posición relativa con respecto a su padre*/
+  top: 15px;          /*Está a 15px de arriba hacia abajo*/
+  width: 40px;        /*Ancho del ícono*/
+  left: 10px;
+}
+
+/*Nombre de la página*/
+.Titulo{
+  position: relative; /*Posición relativa con respecto al padre*/
+  left: 780px; /*Posición de izquierda a derecha*/
+  top: -40px;  /*Posición de arriba hacia abajo*/
+  color: #5a4586; /*Color del texto*/
+}
+
+/*Propiedades del ícono de cuenta*/
+.Cuenta{
+  position: relative;
+  left: 1550px;
+  top: -115px;
+}
+
+/*Propiedades del texto para instalar*/
+.Instalar{
+  position: relative;
+  left: 1700px;
+  top: -175px;
+  color: #5a4586;
+}
+
+/*Barra de en medio*/
+
+.Medio{
+  position: absolute;
+  top: 80px;
+  margin: auto;
+  width: 1850px;
+  height: 70px;
+  background-color: #00FF80;
+}
+
+/*Propiedades del título tienda*/
+.Tienda{
+  position: relative;
+  color: #5a4586;
+}
+
+/*Propiedades del título librería*/
+.Libreria{
+  position: relative;
+  top: -60px;
+  left: 150px;
+  color: #5a4586;
+}
+
+/*Propiedades de la imagen del buscador*/
+
+.Buscador{
+  position: relative;
+  left: 300px;
+  top: -120px;
+  width: 40px;
+}
+
+/*Propiedades del panel derecho de Steam*/
+.Panel{
+  position: absolute;
+  top: 160px;
+  margin: auto;
+  width: 300px;
+  height: 750px;
+  background-color: #00FF80;
+}
+
+/*Propiedades del título Descubir*/
+.Descubrir{
+  color:#5a4586;
+}
+
+/*Propiedades del texto Acción*/
+.Accion{
+  color:#5a4586;
+  width: 100px;
+}
+
+/*Propiedades del texto Acción*/
+.Casual{
+  color:#5a4586;
+  width: 100px;
+}
+
+/*Propiedades de la imagen del juego*/
+.Juego{
+  position: relative;
+  left: 550px;
+  width: 800px;
+}
+
+/*Propiedades para la descripción del juego*/
+.Descripcion{
+  position: absolute;
+  top: 280px;
+  left: 1360px;
+  margin: auto;
+  width: 300px;
+  height: 340px;
+  background-color: #EBB554;
+}
+
+/*Propiedades de la descripción del juego*/
+.Des{
+  color: #5a4586;
+}
+
+/*Propiedades del texto descriptivo*/
+.Texto_Des{
+  color: #005051;
+}
+
+/*Propiedades del panel inferior de Steam*/
+.Inferior{
+  position: absolute;
+  top: 810px;
+  left: 310px;
+  margin: auto;
+  width: 1530px;
+  height: 100px;
+  background-color: #EBB554; 
+}
+
+/*Propiedades del texto para descargas*/
+.Descar{
+  position: relative;
+  top: 25px;
+  left: 680px;
+  color: #5a4586;
+}
+
+/*Propiedades del texto para chats*/
+.Chat{
+  position: relative;
+  top: -10px;
+  left: 1480px;
+  color: #5a4586;
+}
