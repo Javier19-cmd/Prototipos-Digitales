@@ -1,0 +1,118 @@
+/*Estilo de la página*/
+
+body{
+    background-color: #99EB01;
+    font-family: 'Alegreya Sans';   
+}
+
+/*Propiedades de la foto de perfil*/
+.foto{
+    position: relative;
+    width: 250px;
+    top: 75px;
+    left: 45px;
+}
+
+/*Propiedades del título*/
+.User{
+    position: relative;
+    color: #5a4586;
+    left: 360px;
+    top: -150px;
+}
+
+/*Propiedades de la descripción*/
+.Descripcion{
+    position: relative;
+    color: #5a4586;
+    left: 360px;
+    top: -150px;
+}
+
+/*Propiedades de la nivel*/
+.Nivel{
+    position: relative;
+    color: #5a4586;
+    left: 1500px;
+    top: -250px;
+}
+
+/*Propiedades del cuadro para jugar de nuevo*/
+.Jugar_Nuevo{
+    position: relative;
+    top: 90px;
+    left: 90px;
+    width: 650px;
+    height: 90px;
+    background-color: #EBB554;
+}
+
+/*Propiedades del texto para jugar de nuevo*/
+.JugarR{
+    position: relative;
+    top: 25px;
+    left: 200px;
+    color:#5a4586;
+}
+
+/*Propiedades del primer juego*/
+.Jug1{
+    position: relative;
+    top: 125px;
+    left: 90px;
+    width: 650px;
+    height: 150px;
+    background-color: #EBB554;
+}
+
+/*Propiedades de imagen*/
+.Juego1{
+    width: 200px;
+    height: 100px;
+}
+
+/*Propiedades del tiempo jugador*/
+.Tiempo{
+    color:#5a4586;
+}
+
+/*Propiedades del botón para jugar*/
+.Jugar{
+    position: relative;
+    width: 60px;
+    background-color: #00FF80;
+    top: -120px;
+    left: 500px;
+    color:#5a4586;
+}
+
+/*Propiedades del segundo juego*/
+.Jug2{
+    position: relative;
+    top: 175px;
+    left: 90px;
+    width: 650px;
+    height: 150px;
+    background-color: #EBB554;
+}
+
+/*Propiedades de imagen*/
+.Juego2{
+    width: 200px;
+    height: 100px;
+}
+
+/*Propiedades del tiempo jugador*/
+.Tiempo{
+    color:#5a4586;
+}
+
+/*Propiedades del botón para jugar*/
+.Jugar2{
+    position: relative;
+    width: 60px;
+    background-color: #00FF80;
+    top: -120px;
+    left: 500px;
+    color:#5a4586;
+}
